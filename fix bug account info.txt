@@ -1,0 +1,5 @@
+SFTP
+user : andrii@reiknivel.nesdekk.is
+pw : 0iL3zN3nQ
+port : 2222
+host : sftp://nesdekk.is
